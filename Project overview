@@ -1,0 +1,6 @@
+This project is based on conducting bibliometric analysis with R, with the emphasis on assessing research performance, collaboration patterns, and publication behavior from data provided by the Web of Science database.
+The process includes importing.bib formatted data, cleaning and reshaping it with dplyr, and creating insights and visualizations with bibliometrix, biblioshiny, and ggplot2. 
+The main intention is to show how R can be utilized effectively for massive bibliometric analyses in the academic and research communities. Although the original dataset is not public,
+this repository gives the main script and an example workflow to show the methodology.
+
+This is a project that i worked to do anlaysis usin R.
